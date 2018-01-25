@@ -1,7 +1,7 @@
 ## Installation
 Installation with composer
 
-	"ryorky1/lohn": "1.*"
+	"ryorky1/luhn": "dev-master"
 
 ## Usage
 Use the class like this:
